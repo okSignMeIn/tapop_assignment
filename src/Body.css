@@ -1,0 +1,9 @@
+.body {
+    flex: 1;
+}
+
+.para {
+    max-height: 45vh;
+    padding-top: 5px;
+    overflow-y: scroll;
+}
